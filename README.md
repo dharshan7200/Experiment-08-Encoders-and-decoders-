@@ -68,7 +68,7 @@ Program for Endocers and Decoders  and verify its truth table in quartus using V
 Developed by: Dharshan D
 RegisterNumber: 23001663 
 ```
-Encoder:
+# Encoder:
 ```
 module encoder(a,b,c,d0,d1,d2,d3,d4,d5,d6,d7);
 output a,b,c;
@@ -78,7 +78,7 @@ or(b,d2,d3,d6,d7);
 or(c,d1,d3,d5,d7);
 endmodule
 ```
-Decoder:
+# Decoder:
 ```
 module decoder(d0,d1,d2,d3,d4,d5,d6,d7,a,b,c);
 output d0,d1,d2,d3,d4,d5,d6,d7;
@@ -99,19 +99,19 @@ endmodule
 
 
 ### RTL LOGIC  
-Encoder:
+# Encoder:
 ![image](https://github.com/dharshan7200/Experiment-08-Encoders-and-decoders-/assets/138850116/2b1095f6-c4d4-4bb2-b257-21d963a63e99)
-Decoder:
+# Decoder:
 ![image](https://github.com/dharshan7200/Experiment-08-Encoders-and-decoders-/assets/138850116/351e0d9e-53f4-4ba2-ada5-a7ffa48092e8)
 
 
 
 
 ### TIMING DIGRAMS  
-Encoder:
+# Encoder:
 ![image](https://github.com/dharshan7200/Experiment-08-Encoders-and-decoders-/assets/138850116/bcae769b-5109-4db7-8b81-ab4652c29af0)
 
-Decoder:
+# Decoder:
 ![image](https://github.com/dharshan7200/Experiment-08-Encoders-and-decoders-/assets/138850116/c0299cf1-ca9e-4dd4-a792-b902582688ca)
 
 
@@ -119,10 +119,10 @@ Decoder:
 
 
 ### TRUTH TABLE 
-Encoder:
+# Encoder:
 ![image](https://github.com/dharshan7200/Experiment-08-Encoders-and-decoders-/assets/138850116/1ac63bff-d1c9-4b78-beb7-fcf5e983a7ed)
 
-Decoders:
+# Decoders:
 ![image](https://github.com/dharshan7200/Experiment-08-Encoders-and-decoders-/assets/138850116/0abe6f6d-d0b4-4b43-9615-3dc9f2e8ac44)
 
 
