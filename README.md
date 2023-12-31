@@ -101,7 +101,6 @@ endmodule
 ### RTL LOGIC  
 Encoder:
 ![image](https://github.com/dharshan7200/Experiment-08-Encoders-and-decoders-/assets/138850116/2b1095f6-c4d4-4bb2-b257-21d963a63e99)
-
 Decoder:
 ![image](https://github.com/dharshan7200/Experiment-08-Encoders-and-decoders-/assets/138850116/351e0d9e-53f4-4ba2-ada5-a7ffa48092e8)
 
